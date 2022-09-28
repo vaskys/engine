@@ -1,6 +1,6 @@
-cmake . \n
-make \n
-./engine \n
+cmake . __
+make  __
+./engine __
 
 
 ![Alt text](/images/jedna.png "Editor 1")
