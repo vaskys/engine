@@ -1,7 +1,6 @@
-cmake .__
-make__
-./engine__
-
+cmake . <br />
+make <br />
+./engine <br />
 
 ![Alt text](/images/jedna.png "Editor 1")
 ![Alt text](/images/dva.png "Editor 2")
